@@ -1,0 +1,77 @@
+body {
+  width: 100%;
+}
+body ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+* {
+  font-family: "PT Sans", sans-serif;
+}
+
+main {
+  max-width: 380px;
+  width: 100%;
+  height: 85vh;
+  margin: 0 auto;
+  background-image: url("../img/iphone.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .top-bar {
+  height: 60px;
+  width: 100%;
+  max-width: 327px;
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+main .top-bar .left {
+  flex: 1;
+}
+main .top-bar .left div {
+  text-align: left;
+  padding-left: 24px;
+  margin-top: 20px;
+}
+main .top-bar .left div p {
+  font-weight: 700;
+  font-size: 13px;
+}
+main .top-bar .right {
+  flex: 1;
+}
+main .top-bar .right ul {
+  padding-left: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 22px;
+}
+main .top-bar .right ul li {
+  height: 15px;
+  width: 15px;
+  margin: 0 3px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+main .shoutouts-container {
+  max-width: 80vw;
+  margin: 0 auto;
+}
+main .shoutouts-container .slick-list {
+  overflow-y: hidden;
+  max-height: 583px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */
