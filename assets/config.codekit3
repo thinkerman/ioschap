@@ -45,11 +45,55 @@
 		"oAP": "/img/.gitignore",
 		"oF": 0
 		},
+	"/img/back.png": {
+		"ft": 32768,
+		"iS": 264,
+		"oA": 0,
+		"oAP": "/img/back.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/battery.png": {
 		"ft": 32768,
-		"iS": 342,
+		"iS": 432,
 		"oA": 0,
 		"oAP": "/img/battery.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/create-message.png": {
+		"ft": 32768,
+		"iS": 555,
+		"oA": 0,
+		"oAP": "/img/create-message.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/Femi.jpeg": {
+		"ft": 16384,
+		"iS": 67475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/Femi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/forward.png": {
+		"ft": 32768,
+		"iS": 257,
+		"oA": 0,
+		"oAP": "/img/forward.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -67,11 +111,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/Momoore.jpg": {
+		"ft": 16384,
+		"iS": 3132798,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/Momoore.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/network.png": {
 		"ft": 32768,
 		"iS": 218,
 		"oA": 0,
 		"oAP": "/img/network.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/person.png": {
+		"ft": 32768,
+		"iS": 13490,
+		"oA": 0,
+		"oAP": "/img/person.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/view-more.png": {
+		"ft": 32768,
+		"iS": 1097,
+		"oA": 0,
+		"oAP": "/img/view-more.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -87,6 +164,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/wura.jpeg": {
+		"ft": 16384,
+		"iS": 97494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/wura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/js/main.js": {
@@ -188,6 +276,14 @@
 		"oF": 2,
 		"oS": 0,
 		"sct": 0
+		},
+	"/scss/Untitled.code-workspace": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/scss/Untitled.code-workspace",
+		"oF": 0
 		}
 	},
 "hooks": [
